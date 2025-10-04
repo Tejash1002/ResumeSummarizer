@@ -1,0 +1,72 @@
+                                                      Sample Resumes
+
+=================================================================================================================================
+Resume-1
+=================================================================================================================================
+
+John Doe
+Email: john.doe@example.com | Phone: 123-456-7890
+
+Professional Summary:
+Experienced Software Engineer with 4 years of expertise in developing web applications using Python, Django, and React. Skilled in building scalable backend systems and implementing RESTful APIs. Strong knowledge of database design and cloud deployment.
+
+Work Experience:
+Software Engineer | Tech Solutions Inc. | 2019-2023
+- Developed and maintained web applications in Python and Django.
+- Implemented REST APIs and integrated third-party services.
+- Collaborated with frontend team to deliver responsive web interfaces.
+
+Education:
+B.Tech in Computer Science | XYZ University | 2015-2019 i need somthing for this
+
+=================================================================================================================================
+Resume-2
+=================================================================================================================================
+
+John Doe
+Email: john.doe@example.com | Phone: 123-456-7890 | Portfolio: johndoe.dev
+Professional Summary
+A results-driven Software Engineer with a 4-year track record of delivering robust and efficient web solutions. Proven success in enhancing application performance, improving system scalability, and contributing to significant user growth through expert-level development in Python, Django, and React.
+Professional Experience
+Software Engineer | Tech Solutions Inc. | 2019-2023
+Led development of a customer portal, increasing user engagement by 20% and reducing support tickets by 10%.
+Engineered a REST API suite that cut server response time by 30% while supporting 50% traffic growth.
+Improved application performance by refactoring code and optimizing schemas, decreasing page load times by 15%.
+Streamlined the CI/CD pipeline, reducing deployment times from 30 to 5 minutes.
+Education
+B.Tech in Computer Science | XYZ University | 2015-2019
+
+=================================================================================================================================
+Resume-3
+=================================================================================================================================
+
+Aryan Sharma
+Bengaluru, India | +91 98765 43210 | aryan.sharma@email.com | linkedin.com/in/aryansharma
+Summary
+Results-driven Software Engineer with 5+ years of experience in full-stack web development, specializing in building scalable and efficient applications. Proficient in JavaScript (React, Node.js), Python (Django), and cloud services like AWS. Proven ability to lead development projects, resulting in a 20% increase in application performance and a 15% reduction in server costs at previous roles. Passionate about writing clean, maintainable code and collaborating with cross-functional teams to deliver high-quality software solutions. Eager to leverage expertise in a challenging new role.
+Experience
+Senior Software Engineer, TechSolutions Pvt. Ltd., Bengaluru (2020-Present)
+Software Engineer, Innovate Systems, Hyderabad (2018-2020)
+Education
+B.Tech in Computer Science, Indian Institute of Technology, Delhi
+Skills
+JavaScript, Python, Java, React, Node.js, Django, SQL, MongoDB, AWS, Docker
+
+=================================================================================================================================
+test-4
+=================================================================================================================================
+
+Priya Patel
+Mumbai, India | +91 87654 32109 | priya.patel@email.com | linkedin.com/in/priyapatel
+Summary
+Dynamic Marketing Manager with 8 years of experience developing and executing successful marketing strategies across digital and traditional channels. Demonstrated expertise in SEO/SEM, social media marketing, and content strategy, leading to a 40% growth in online engagement and a 25% increase in lead generation for a major FMCG brand. Adept at managing budgets, leading creative teams, and using data analytics to drive campaign optimization and ROI. A strategic thinker with strong communication skills, committed to building brand awareness and driving revenue growth.
+Experience
+Marketing Manager, BrandCorp India, Mumbai (2019-Present)
+Digital Marketing Specialist, MarketMinds Agency, Pune (2015-2019)
+Education
+MBA in Marketing, Jamnalal Bajaj Institute of Management Studies, Mumbai
+Skills
+Digital Strategy, SEO/SEM, Content Marketing, Google Analytics, Team Leadership, Budget Management
+
+=================================================================================================================================
+
