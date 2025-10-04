@@ -68,6 +68,7 @@ Install all the necessary libraries using the `requirements.txt` file.
 
 ```bash
 pip install -r requirements.txt
+pip install streamlit PyPDF2 transformers torch
 ```
 
 ### 4️⃣ Run the Streamlit App
